@@ -29,3 +29,4 @@ The dataset is not included in this repository. Download it separately and provi
 python university_name_matching.py \
   --input_file /path/to/universities.txt \
   --output_file university_matches.tsv
+```
