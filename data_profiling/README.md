@@ -18,3 +18,13 @@ The generated table is designed to satisfy:
 
 ```bash
 python dependency_constrained_table_generator.py
+```
+
+Optional arguments:
+
+```bash
+python dependency_constrained_table_generator.py \
+  --rows 1000 \
+  --seed 42 \
+  --output_file generated_dependency_table.csv
+```
