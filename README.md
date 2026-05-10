@@ -10,15 +10,15 @@ The projects cover topics in:
 
 ## Projects
 
-### Data Profiling
+### [Data Profiling](data_profiling/)
 
 The `data_profiling/` folder contains a script that generates and validates a synthetic table with predefined data dependencies, including functional dependencies, an approximate functional dependency, unique column combinations, and an inclusion dependency.
 
-### Entity Matching
+### [Entity Matching](entity_matching/)
 
 The `entity_matching/` folder contains a script for identifying duplicate or near-duplicate university names using text normalization, blocking, Jaccard similarity, Levenshtein similarity, and union-find clustering.
 
-### Schema Matching
+### [Schema Matching](schema_matching/)
 
 The `schema_matching/` folder contains a schema matching pipeline that combines BERT-based semantic similarity, Jaccard similarity, weighted score aggregation, and one-to-one matching with the Hungarian algorithm.
 
